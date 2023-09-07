@@ -1,0 +1,5 @@
+{{#user}}
+Name: Asheer Alam Farooqi
+Skills: HTML, CSS, JS, Node.js, React.js, Python, Django, Bootstrap, Tailwind CSS, jQuery, MySQL, Google FireBase
+Email: asheer.farooqi@gmail.com
+{{/user}}
